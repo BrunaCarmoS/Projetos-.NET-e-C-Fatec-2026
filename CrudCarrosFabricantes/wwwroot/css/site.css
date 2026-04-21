@@ -48,7 +48,7 @@ body {
   transform: translateY(-5px);
 }
 
-/*botões*/
+/*btn*/
 .btn-custom {
   background-color: #e0e0e0;
   color: #333;
@@ -61,5 +61,4 @@ body {
 .btn-custom:hover {
   background-color: #d5d5d5;
   color: #000;
-}
 }

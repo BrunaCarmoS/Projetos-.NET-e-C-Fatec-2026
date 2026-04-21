@@ -279,3 +279,4 @@
 /home/hophop/RiderProjects/CrudCarrosFabricantes/obj/Debug/net8.0/CrudCarrosFabricantes.pdb
 /home/hophop/RiderProjects/CrudCarrosFabricantes/obj/Debug/net8.0/CrudCarrosFabricantes.genruntimeconfig.cache
 /home/hophop/RiderProjects/CrudCarrosFabricantes/obj/Debug/net8.0/ref/CrudCarrosFabricantes.dll
+/home/hophop/RiderProjects/CrudCarrosFabricantes/obj/Debug/net8.0/CrudCarrosFabricantes.sourcelink.json
